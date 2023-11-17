@@ -1,5 +1,14 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+I'm+Alexander+Zadorozhnyy+👋)](https://git.io/typing-svg)
 
+## Pinned
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Zadorozhnyy&repo=CGAN_CAPTCHA_SOLVER&theme=radical)](https://github.com/Alexander-Zadorozhnyy/CGAN_CAPTCHA_SOLVER)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Zadorozhnyy&repo=Licence-Plate-Recognition&theme=radical)](https://github.com/Alexander-Zadorozhnyy/Licence-Plate-Recognition)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Zadorozhnyy&repo=fp2022-haskell-FSharp-Mini-ML&theme=radical)](https://github.com/Alexander-Zadorozhnyy/fp2022-haskell-FSharp-Mini-ML)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Zadorozhnyy&repo=ml-practices&theme=radical)](https://github.com/Alexander-Zadorozhnyy/ml-practices)
+
+
 I'm currently a Computer Vision Intern with a focus on Machine Learning and Deep Learning applications. I am passionate about exploring the vast universe of machine learning and computer vision to unravel new possibilities and create intelligent solutions.
 
 💡 I specialize in:
@@ -44,11 +53,3 @@ I'm currently a Computer Vision Intern with a focus on Machine Learning and Deep
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexander-Zadorozhnyy&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alexander-Zadorozhnyy&theme=radical)
-
-## Pinned
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Zadorozhnyy&repo=CGAN_CAPTCHA_SOLVER&theme=radical)](https://github.com/Alexander-Zadorozhnyy/CGAN_CAPTCHA_SOLVER)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Zadorozhnyy&repo=Licence-Plate-Recognition&theme=radical)](https://github.com/Alexander-Zadorozhnyy/Licence-Plate-Recognition)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Zadorozhnyy&repo=fp2022-haskell-FSharp-Mini-ML&theme=radical)](https://github.com/Alexander-Zadorozhnyy/fp2022-haskell-FSharp-Mini-ML)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Zadorozhnyy&repo=ml-practices&theme=radical)](https://github.com/Alexander-Zadorozhnyy/ml-practices)
